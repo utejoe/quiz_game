@@ -13,3 +13,6 @@ This is a simple quiz game implemented in Python. It presents a set of questions
 To customize the quiz game, you can modify the questions and their respective choices and answers. You can add more questions by creating additional `Question` objects and adding them to the list of questions in the `QuizGame` instance.
 
 Feel free to enhance and expand the functionality of the quiz game according to your requirements.
+
+Created by 
+## Uyi Obaze (UteJoe)
